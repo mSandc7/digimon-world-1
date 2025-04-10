@@ -1,0 +1,207 @@
+@font-face {
+    font-family: 'pixeledregular';
+    src: url('../Fonte/pixeled-webfont.woff2') format('woff2'),
+         url('../Fonte/pixeled-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@keyframes slidein {
+	from {
+	  opacity: 0;
+	}
+  
+	to {
+	  opacity: 1;
+	}
+  }
+body{
+	background-image: url(../imagens/bgg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+   
+}
+.main{
+		height: 100vh;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		margin-top: -50px;
+}
+/*  
+--------
+--------TOPO DO SITE - LOGO & MENU   
+--------   
+*/
+.topo{
+    margin-top: 30px;
+    width: 820px;
+}
+.logo{
+	float: left;
+}
+.menubg{
+    position: relative;
+    top: 50px;
+	left: 50px;
+	overflow: hidden;
+}
+.menu ul{
+	position: relative;
+    list-style: none;
+    top: 5px;
+    left: 100px;
+	word-spacing: 25px;
+	overflow: hidden;
+}
+.menu ul li{
+	display: inline;
+}
+.menu li{
+	margin-right: 10px;
+}
+
+.menu ul li a{
+    font-family: pixeledregular;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration: none;
+	color: #D6D6D6;
+	text-shadow: 0.1em 0.1em #000;
+}
+
+/*  
+--------
+--------CONTEUDO   
+--------   
+*/
+.corpo{  
+	width: 868px;
+    height: 376px;
+    position: relative;
+    top: 25px;
+}
+.digimons{
+	border: solid;
+	border-color: transparent;
+    position: relative;
+    width: 552px;
+    height: 370px;
+    margin-top: -382px;
+    padding-left: 12px;
+}
+.digiinfo{
+	border: solid;
+	border-color: transparent;
+    position: relative;
+    width: 290px;
+    height: 370px;
+    margin-top: -376px;
+	margin-left: 565px;
+	overflow: hidden;
+}
+.texto{
+    padding-left: 5px;
+	width: 280px;
+	font-size: 100%;
+	font-family: Arial;
+	color: #d0d0d0;
+	text-shadow: 0.1em 0.1em #000;
+	animation-duration: 1s;
+	animation-name: slidein;
+
+}
+.texto font{
+    color: #f8f070;
+}
+/*  
+--------
+--------DETONADO & CHEAT
+--------   
+*/
+.conteudotop{
+	max-height: 23px;
+	max-width: 868px;
+}
+.conteudo{
+	background-image: url(../imagens/conteudomid.png);
+	background-repeat: repeat;
+	width: 868px;
+	overflow: hidden;
+}
+.conteudobot{
+	max-height: 23px;
+	max-width: 868px;
+}
+p {
+	text-align: left;
+	width: 845px;
+	word-wrap: break-word;
+	font-size: 100%;
+	font-family: Arial;
+	color: #d0d0d0;
+	text-shadow: 0.1em 0.1em #000;
+	padding: 0 0 0 10px;
+}
+p.contxt{
+    text-align: center;
+	width: 845px;
+	word-wrap: break-word;
+	font-size: 100%;
+	font-family: Arial;
+	color: #f8f070;
+	text-shadow: 0.1em 0.1em #000;
+	padding: 1px 0 0 10px;
+}
+.table{
+	border-collapse: collapse;
+	border-color: #000000;
+	word-wrap: break-word;
+	font-family: Arial;
+	color: #d0d0d0;
+	text-shadow: 0.1em 0.1em #000;
+	padding: 1px 0 0 10px;
+	
+}
+.table tr{
+	background-color: #354b5c;
+}
+.busca{
+	position: relative;
+	margin: 0;
+	padding: 0;
+	top: 0;
+	text-align: center;
+	height: 380px;
+}
+.code div{
+	position: relative;
+	left: 42.2%;
+	top: 5px;
+	width: 130px;
+	font-family: Arial;
+	color: #f8f070;
+	text-shadow: 0.1em 0.1em #000;
+	background-color: #374a59;
+	border: solid;
+	border-top-color: #000;
+	border-left-color: #000;
+	border-bottom-color: #678094;
+	border-right-color: #678094;
+}
+select{
+	border: solid;
+	border-radius: 10px;
+	border-top-color: #000;
+	border-left-color: #000;
+	border-bottom-color: #678094;
+	border-right-color: #678094;
+	background-color: #374a59;
+	font-family: Arial;
+	color: #d0d0d0;
+	text-shadow: 0em 0.1em #000;
+	font-size: 16px;
+	text-align: center;
+}

@@ -1,0 +1,643 @@
+@charset "utf-8";
+/* CSS Document */
+
+#botamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 17px;
+	top: 20px;
+	position: relative;
+	cursor: pointer;
+}
+#poyomon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -24px;
+	top: 89px;
+	position: relative;
+	cursor: pointer;
+}
+#punimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -64px;
+	top: 162px;
+	position: relative;
+	cursor: pointer;
+}
+#yuramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -105px;
+	top: 233px;
+	position: relative;
+	cursor: pointer;
+}
+#koromon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -77px;
+	top: 23px;
+	position: relative;
+	cursor: pointer;
+}
+#tokomon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -117px;
+	top: 90px;
+	position: relative;
+	cursor: pointer;
+}
+#tsunomon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -159px;
+	top: 162px;
+	position: relative;
+	cursor: pointer;
+}
+#tanemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -200px;
+	top: 231px;
+	position: relative;
+	cursor: pointer;
+}
+#agumon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -173px;
+	top: 15px;
+	position: relative;
+	cursor: pointer;
+}
+#gabumon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -214px;
+	top: 50px;
+	position: relative;
+	cursor: pointer;
+}
+#patamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -255px;
+	top: 86px;
+	position: relative;
+	cursor: pointer;
+}
+#elecmon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -296px;
+	top: 122px;
+	position: relative;
+	cursor: pointer;
+}
+#piyomon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -339px;
+	top: 157px;
+	position: relative;
+	cursor: pointer;
+}
+#kunemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 154px;
+	top: 148px;
+	position: relative;
+	cursor: pointer;
+}
+#palmon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 113px;
+	top: 183px;
+	position: relative;
+	cursor: pointer;
+}
+#betamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 73px;
+	top: 219px;
+	position: relative;
+	cursor: pointer;
+}
+#penguinmon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 32px;
+	top: 255px;
+	position: relative;
+	cursor: pointer;
+}
+#greymon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 60px;
+	top: -30px;
+	position: relative;
+	cursor: pointer;
+}
+#monochromon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 19px;
+	top: 5px;
+	position: relative;
+	cursor: pointer;
+}
+#ogremon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -22px;
+	top: 41px;
+	position: relative;
+	cursor: pointer;
+}
+#airdramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -62px;
+	top: 77px;
+	position: relative;
+	cursor: pointer;
+}
+#kuwagamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -103px;
+	top: 112px;
+	position: relative;
+	cursor: pointer;
+}
+#whamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -145px;
+	top: 148px;
+	position: relative;
+	cursor: pointer;
+}
+#frigimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -184px;
+	top: 183px;
+	position: relative;
+	cursor: pointer;
+}
+#nanimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -227px;
+	top: 219px;
+	position: relative;
+	cursor: pointer;
+}
+#meramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -223px;
+	top: -30px;
+	position: relative;
+	cursor: pointer;
+}
+#drimogemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 269px;
+	top: -39px;
+	position: relative;
+	cursor: pointer;
+}
+#leomon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 228px;
+	top: -3px;
+	position: relative;
+	cursor: pointer;
+}
+#kokatorimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 187px;
+	top: 33px;
+	position: relative;
+	cursor: pointer;
+}
+#vegiemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 146px;
+	top: 68px;
+	position: relative;
+	cursor: pointer;
+}
+#shellmon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 105px;
+	top: 104px;
+	position: relative;
+	cursor: pointer;
+}
+#mojyamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 64px;
+	top: 139px;
+	position: relative;
+	cursor: pointer;
+}
+#birdramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 68px;
+	top: -74px;
+	position: relative;
+	cursor: pointer;
+}
+#tyrannomon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 27px;
+	top: -39px;
+	position: relative;
+	cursor: pointer;
+}
+#angemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -14px;
+	top: -3px;
+	position: relative;
+	cursor: pointer;
+}
+#unimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -55px;
+	top: 33px;
+	position: relative;
+	cursor: pointer;
+}
+#ninjamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -96px;
+	top: 68px;
+	position: relative;
+	cursor: pointer;
+}
+#coelamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -137px;
+	top: 104px;
+	position: relative;
+	cursor: pointer;
+}
+#numemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -179px;
+	top: 139px;
+	position: relative;
+	cursor: pointer;
+}
+#centarumon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 358px;
+	top: -119px;
+	position: relative;
+	cursor: pointer;
+}
+#devimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 318px;
+	top: -84px;
+	position: relative;
+	cursor: pointer;
+}
+#bakemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 277px;
+	top: -48px;
+	position: relative;
+	cursor: pointer;
+}
+#kabuterimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 236px;
+	top: -12px;
+	position: relative;
+	cursor: pointer;
+}
+#seadramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 195px;
+	top: 23px;
+	position: relative;
+	cursor: pointer;
+}
+#garurumon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 154px;
+	top: 59px;
+	position: relative;
+	cursor: pointer;
+}
+#sukamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 113px;
+	top: 94px;
+	position: relative;
+	cursor: pointer;
+}
+#metalgreymon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 142px;
+	top: -119px;
+	position: relative;
+	cursor: pointer;
+}
+#skullgreymon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 101px;
+	top: -84px;
+	position: relative;
+	cursor: pointer;
+}
+#giromon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 61px;
+	top: -46px;
+	position: relative;
+	cursor: pointer;
+}
+#hkabuterimon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 19px;
+	top: -12px;
+	position: relative;
+	cursor: pointer;
+}
+#metalmamemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -20px;
+	top: 25px;
+	position: relative;
+	cursor: pointer;
+}
+#megaseadramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -63px;
+	top: 59px;
+	position: relative;
+	cursor: pointer;
+}
+#vademon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 429px;
+	top: 50px;
+	position: relative;
+	cursor: pointer;
+}
+#etemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 388px;
+	top: 86px;
+	position: relative;
+	cursor: pointer;
+}
+#andromon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 392px;
+	top: -163px;
+	position: relative;
+	cursor: pointer;
+}
+#megadramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 351px;
+	top: -128px;
+	position: relative;
+	cursor: pointer;
+}
+#phoenixmon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 310px;
+	top: -92px;
+	position: relative;
+	cursor: pointer;
+}
+#piximon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 269px;
+	top: -54px;
+	position: relative;
+	cursor: pointer;
+}
+#mamemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 228px;
+	top: -19px;
+	position: relative;
+	cursor: pointer;
+}
+#monzaemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 187px;
+	top: 15px;
+	position: relative;
+	cursor: pointer;
+}
+#digitamamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: 146px;
+	top: 50px;
+	position: relative;
+	cursor: pointer;
+}
+#panjyamon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -17px;
+	top: 139px;
+	position: relative;
+	cursor: pointer;
+}
+#gigadramon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -12px;
+	top: 139px;
+	position: relative;
+	cursor: pointer;
+}
+#metaletemon{
+	border: solid;
+	border-color: transparent;
+	max-width: 31px;
+	max-height: 32px;
+	left: -9px;
+	top: 139px;
+	position: relative;
+	cursor: pointer;
+}
