@@ -205,3 +205,36 @@ select{
 	font-size: 16px;
 	text-align: center;
 }
+
+
+/* --- Responsividade para dispositivos móveis --- */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.6;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 0.95em;
+    }
+    h1, h2, h3 {
+        font-size: 1.2em;
+    }
+    .container, .content {
+        padding: 10px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
